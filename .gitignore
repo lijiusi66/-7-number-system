@@ -1,0 +1,46 @@
+# =========================
+# Visual Studio 常用忽略规则
+# =========================
+
+# VS 缓存目录
+.vs/
+*.vsidx
+
+# 编译生成文件
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.idb
+*.pch
+*.ilk
+
+# 日志文件
+*.log
+
+# Visual Studio 用户配置文件（不需要上传）
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+
+# 临时文件
+*.tmp
+*.cache
+*.aps
+*.ncb
+*.opendb
+
+# 其他自动生成文件
+*.exe
+*.dll
+*.lib
+*.exp
+*.bsc
+*.sdf
+*.ipch
+*.tlog
+*.lastbuildstate
+
